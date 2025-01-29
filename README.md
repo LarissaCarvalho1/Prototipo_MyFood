@@ -36,4 +36,4 @@ os dados e facilitar a análise, preparando o caminho para a definição dos pro
 próxima etapa. 
 
 ## Mapa da Empatia
-[Mapa da Empatia](img01.png)
+![Mapa da Empatia](img01.png)
