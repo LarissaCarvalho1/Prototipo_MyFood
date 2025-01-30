@@ -1,12 +1,13 @@
 # 🎯 Inovando e Prototipando Soluções com Design Thinking no Figma
+O MyFood é um aplicativo de delivery desenvolvido durante a disciplina de Agile Methods na UniFECAF. Para criar o protótipo do app utilizei como referência o design do Ifood. 
 
-## O que é o Design Thinking?
+## ⚡ O que é o Design Thinking?
 Design thinking é uma metodologia de resolução de problemas que usa técnicas criativas e colaborativas para desenvolver produtos e serviços. O objetivo é criar soluções inovadoras que atendam às necessidades dos usuários. 
 
 ## 📌 Visão geral e desafio 
-> Imagine-se contratado por uma startup que enfrenta desafios de usabilidade em seu aplicativo, seja ele de e-commerce ou de entregas. Seu desafio é aplicar o Design Thinking para compreender as necessidades dos usuários, definir claramente o problema, gerar ideias, criar um protótipo no Figma e apresentar a solução final em um vídeo pitch de até 5 minutos.
+> Imagine-se contratado por uma startup que enfrenta desafios de usabilidade em seu aplicativo, seja ele de e-commerce ou de entregas. Seu desafio é aplicar o Design Thinking para compreender as necessidades dos usuários, definir claramente o problema, gerar ideias, criar um protótipo no Figma e apresentar a solução final em um vídeo pitch de até 4 minutos.
 
-## Etapas do Design Thinking aplicadas ao projeto
+## 🟡 Etapas do Design Thinking aplicadas ao projeto
 ### **Empatia:** Coleta de dados para entender as necessidades do usuário. 
    - **Usuário:** Amanda, 19 anos, estudante de medicina e usuária frequente de
 aplicativos de delivery
@@ -35,7 +36,7 @@ Obs.: Após o levantamento das informações, utilizei o mapa da empatia para or
 os dados e facilitar a análise, preparando o caminho para a definição dos problemas na
 próxima etapa. 
 
-## Mapa da Empatia
+### Mapa da Empatia
 ![Mapa da Empatia](img01.png)
 
 ## 
@@ -111,4 +112,13 @@ Obs: Para selecioná-las, adotei critérios como satisfação do usuário, capac
 ### **Prototipagem:** As ideias selecionadas são transformadas em protótipos tangíveis e interativos. 
    Nesta etapa, as melhores ideias ganharam vida ao serem transformadas em um protótipo interativo no Figma.
    
+🔗 Acesse o [protótipo](https://www.figma.com/proto/ZuxblvHa4jwkuAdYBUyuYf/Untitled?t=iKQ2D97SXigNvXXO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=32-4&starting-point-node-id=32%3A4) no figma!   
+
 [![Protótipo MyFood](img04.png)](https://www.figma.com/proto/ZuxblvHa4jwkuAdYBUyuYf/Untitled?t=iKQ2D97SXigNvXXO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=32-4&starting-point-node-id=32%3A4)
+
+##
+
+### **Teste:** O protótipo desenvolvido é apresentado aos usuários e novas avaliações serão coletadas para análise
+📌 Neste projeto, o teste foi a gravação de um Pitch.
+
+🔗 Assista ao pitch clicando [aqui!](https://youtu.be/-2CHE1YgotQ)
