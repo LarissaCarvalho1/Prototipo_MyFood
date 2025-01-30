@@ -38,6 +38,8 @@ próxima etapa.
 ## Mapa da Empatia
 ![Mapa da Empatia](img01.png)
 
+## 
+
 ### **Definição:** Análise dos dados para definir os problemas a serem resolvidos. 
    - Dificuldade em encontrar restaurantes com filtros adequados. 
      - **Insight:** Amanda demora muito para achar restaurantes que aceitam vale-refeição.
@@ -64,6 +66,8 @@ próxima etapa.
 restaurantes compatíveis com suas preferências, navegam em uma interface confusa e
 desorganizada, e não têm acesso a funcionalidades essenciais, como filtros adequados,
 opções de pagamento flexíveis e suporte eficiente para cancelar pedidos. 
+
+##
 
 ### **Ideação:** Geração de ideias para resolução dos problemas identificados
    Utilizei a técnica de brainstorming para facilitar a organização e a geração de ideias.
@@ -102,7 +106,9 @@ permitindo buscas como “vale-refeição japonês”.
 
 Obs: Para selecioná-las, adotei critérios como satisfação do usuário, capacidade de retenção de clientes e o valor que cada solução entrega ao usuário.
 
+##
+
 ### **Prototipagem:** As ideias selecionadas são transformadas em protótipos tangíveis e interativos. 
    Nesta etapa, as melhores ideias ganharam vida ao serem transformadas em um protótipo interativo no Figma.
    
-![Protótipo MyFood](img04.png)
+[![Protótipo MyFood](img04.png)](https://www.figma.com/proto/ZuxblvHa4jwkuAdYBUyuYf/Untitled?t=iKQ2D97SXigNvXXO-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=32-4&starting-point-node-id=32%3A4)
