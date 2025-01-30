@@ -64,3 +64,45 @@ próxima etapa.
 restaurantes compatíveis com suas preferências, navegam em uma interface confusa e
 desorganizada, e não têm acesso a funcionalidades essenciais, como filtros adequados,
 opções de pagamento flexíveis e suporte eficiente para cancelar pedidos. 
+
+### **Ideação:** Geração de ideias para resolução dos problemas identificados
+   Utilizei a técnica de brainstorming para facilitar a organização e a geração de ideias.
+
+![Brainstorming](img02.png)
+
+#### Problemas e possíveis soluções 
+
+- **Problema 1:** Dificuldade em encontrar restaurantes com filtros adequados.
+   - Possíveis soluções:
+      - *Criação de filtros avançados:* Adicionar filtros por aceitação de benefício (ex.:
+vale-refeição).
+      - *Favoritos inteligentes:* Permitir que os usuários salvem restaurantes favoritos e
+priorizem na busca.
+      - *Selo de compatibilidade:* Incluir um ícone ou etiqueta ao lado dos restaurantes
+indicando que aceitam vale-refeição ou outras preferências do usuário.
+      - *Busca por palavras-chave:* Implementar uma barra de pesquisa eficiente,
+permitindo buscas como “vale-refeição japonês”.
+
+- **Problema 2:** Interface desorganizada e confusa.
+   - Possíveis soluções:
+      - *Redesigne da interface:* Criar uma interface minimalista, com menos texto, ícones maiores e uma hierarquia visual mais clara.
+      - *Agrupamento por categoria:* Exibir restaurantes organizados por tipo de comida ou popularidade, em vez de misturá-los.
+      - *Modo simplificado:* Oferecer um modo de navegação simplificado, com opções reduzidas para pedidos rápidos.
+      - *Tour interativo para novos usuários:* Incluir um guia inicial que explique como navegar pelo app e usar filtros.
+
+- **Problema 3:**Ausência de funcionalidades essenciais.
+   - Possíveis soluções:
+      - *Adição de novas formas de pagamento:* Implementar suporte para Pix, carteira digital e pagamento na entrega. 
+      - *Opção de cancelamento visível e eficiente:* Tornar a opção de cancelar pedidos facilmente acessível e integrada ao suporte.
+      - *Central de suporte integrada:* Adicionar um chat direto com suporte ou chatbot que ajude com cancelamentos e outras dúvidas
+      - *Funcionalidade “Revisar Pedido”:* Antes de finalizar, o app verifica se todos os critérios do usuário (vale-refeição, tempo estimado de entrega, etc.) estão atendidos. 
+
+#### Seleção das ideias
+![ideias selecionadas](img03.png)
+
+Obs: Para selecioná-las, adotei critérios como satisfação do usuário, capacidade de retenção de clientes e o valor que cada solução entrega ao usuário.
+
+### **Prototipagem:** As ideias selecionadas são transformadas em protótipos tangíveis e interativos. 
+   Nesta etapa, as melhores ideias ganharam vida ao serem transformadas em um protótipo interativo no Figma.
+   
+![Protótipo MyFood](img04.png)
